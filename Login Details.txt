@@ -1,0 +1,31 @@
+---Login Details---
+
+Hospital Name: Medicare Hospital
+Database Name: hmsci
+PHP Version: 5.6.40
+
+* Admin
+Email: channa@gmail.com
+Password: channa24
+
+* Doctor
+Email: ashan@gmail.com
+Password: ashan198
+
+* Patient
+Email: janaki@gmail.com
+Password: janaki88
+
+* Nurse
+Email: naduni@gmail.com
+Password: naduni90
+
+* Laboratorist
+Email: chalith@gmail.com
+Password: chalith96
+
+* Accountant
+Email: nihal@gmail.com
+Password: nihal56
+
+
